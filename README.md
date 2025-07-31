@@ -19,8 +19,15 @@ A light-hearted Flappy-Bird clone featuring **JD** as the main character—built
 - (Optional) [PyInstaller](https://www.pyinstaller.org/) to build an executable
 
 ### Installation
+Make sure the following assets are present in the project root:
+- pip install pygame
+- python JD_Bird.py
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AadhiKabilan/jd-flappy-game.git
-   cd jd-flappy-game
+### 📖 Usage
+- Menu: press SPACE to start, click “Music: ON/OFF” to toggle.
+- Gameplay: press SPACE to flap JD.
+- Game Over: press SPACE to restart.
+
+### 🎨 Screenshots
+!(screenshots/gameplay.png)
+!(screenshots/gameplay.png)
