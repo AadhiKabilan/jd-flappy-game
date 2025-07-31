@@ -2,7 +2,7 @@
 
 A light-hearted Flappy-Bird clone featuring **JD** as the main character—built in Python with [pygame](https://www.pygame.org).
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/ss (1).png)
 
 ## 🚀 Features
 - **Simple controls**: press **SPACE** to flap.
