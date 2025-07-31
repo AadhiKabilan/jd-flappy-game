@@ -29,5 +29,5 @@ Make sure the following assets are present in the project root:
 - Game Over: press SPACE to restart.
 
 ### 🎨 Screenshots
-![Gameplay Screenshot](screenshots/ss(2).png)
 ![Gameplay Screenshot](screenshots/ss(3).png)
+![Gameplay Screenshot](screenshots/ss(2).png)
