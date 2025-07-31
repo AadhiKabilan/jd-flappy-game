@@ -22,5 +22,5 @@ A light-hearted Flappy-Bird clone featuring **JD** as the main character—built
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/jd-flappy-game.git
+   git clone https://github.com/AadhiKabilan/jd-flappy-game.git
    cd jd-flappy-game
